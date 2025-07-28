@@ -15,7 +15,7 @@ The systems' power source should be able to change from an AC-to-DC converter fo
 
 #### Home Power Concept
 
-![home power](diagrams/concept_home_power.png)
+![home power](diagrams/out/concept_home_power.png)
 
 #### Mobile Power Concept
 
